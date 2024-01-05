@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas Box
+* source:	https://sketchfab.com/3d-models/christmas-box-5516fbccb8f942e79da6b12af762bcc8
+* author:	NebulaLLC (https://sketchfab.com/NebulaLLC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas Box" (https://sketchfab.com/3d-models/christmas-box-5516fbccb8f942e79da6b12af762bcc8) by NebulaLLC (https://sketchfab.com/NebulaLLC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
